@@ -14,6 +14,6 @@ Projeto construído do evento Next  level Week da Rocketseat.
 - CSS
 - Git e Github
 
-## 💜 Contanto
+## 💜 Contato
 
 mariaangelanascimento16@gmail.com
